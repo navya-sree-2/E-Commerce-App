@@ -12,7 +12,7 @@ const NewsLetterBox = () => {
                 Subscribe now & get 20% off
             </p>
             <p className='text-gray-400 mt-3'>
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repudiandae numquam tenetur, modi perferendis id quos fuga quidem possimus soluta, fugiat est similique. Ab assumenda asperiores quisquam fugit porro suscipit fuga.
+            Subscribe now for the latest updates, exclusive deals, and limited-time offers. Enjoy a personalized shopping experience — your 20% discount is just the beginning!
             </p>
             <form onSubmit={onSubmitHandler} className='w-full sm:w-1/2 flex items-center gap-3 mx-auto my-6 border pl-3'>
                 <input className='w-full sm:flex-1 outline-none' type="email" placeholder='Enter your email' />

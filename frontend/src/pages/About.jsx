@@ -12,10 +12,10 @@ const About = () => {
             <div className='my-10 flex flex-col md:flex-row gap-16'>
                 <img className='w-full md:max-w-[450px]' src={assets.about_img} alt="" />
                 <div className='flex flex-col justify-center gap-6 md:w-2/4 text-gray-600'>
-                    <p>Loreum ipsum dolor sit amet consectetur adipisicing elit. Debitis tempora iste cumque labore beatae suscipit maiores voluptatibus dolore provident totam, quia repellat esse dicta corrupti saepe modi voluptatum deserunt iusto!  Quisquam, voluptates.</p>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Debitis tempora iste cumque labore beatae suscipit maiores voluptatibus dolore provident totam, quia repellat esse dicta corrupti saepe modi voluptatum deserunt iusto!</p>
+                    <p>At our store we are passionate about delivering a seamless shopping experience with a carefully curated collection of high-quality products. Whether you’re looking for the latest trends or everyday essentials, we bring you the best at unbeatable value.</p>
+                    <p>With a customer-first approach, we focus on quality, convenience, and innovation. Our platform is designed to make shopping effortless, secure, and enjoyable, ensuring every purchase meets your expectations.</p>
                     <b className='text-gray-800'>Our Mission</b>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi deleniti vero quam omnis incidunt voluptates repellat voluptatum molestiae possimus et, quidem voluptatibus eaque distinctio facilis molestias. Dolor assumenda recusandae quia?</p>
+                    <p>Our mission is to redefine online shopping by blending quality, affordability, and convenience. We strive to offer a diverse range of products while maintaining excellent service, fast delivery, and a hassle-free shopping journey that keeps our customers coming back.</p>
                 </div>
             </div>
             <div className='text-xl py-4'>
